@@ -30,4 +30,5 @@ public class Point {
 
         return Math.sqrt(getX() * getX() + getY() * getY());
     }
+    //Тест
 }
